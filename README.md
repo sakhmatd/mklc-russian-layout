@@ -5,7 +5,7 @@ or unable to install the entire ru-RU locale.
 
 # Usage
 
-Clone the repository (requires [Git for Windows](https://git-scm.com/download/win) 
+Clone the repository (requires [Git for Windows](https://git-scm.com/download/win))
 or download it as a ZIP file using the green Code button above.
 
 Open the `layout` folder and run `setup.exe`
