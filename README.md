@@ -26,9 +26,14 @@ find `Russian (ЙЦУКЕН)` in the list and hit `Uninstall` in the top panel.
 The layout was made with [MKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134),
 so you will need to download and install it to make any changes to the keyboard.
 
-Some people may wish to change the default locale from en-US to something else, for example.
+Some people may wish to change the default locale from `en-US` to something else, for example.
 
 Find the source file in the `src` directory of this repository and open it with MKLC to make any changes.
+
+# Limitations
+
+Since the locale for the layout is set to `en-US`, the layout language will show up as "English".
+I don't think this can be circumvented, but let me know if there is a way.
 
 # License
 
