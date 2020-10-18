@@ -28,7 +28,8 @@ so you will need to download and install it to make any changes to the keyboard.
 
 Some people may wish to change the default locale from `en-US` to something else, for example.
 
-Find the source file in the `src` directory of this repository and open it with MKLC to make any changes.
+You will need to uninstall this layout prior to making changes, otherwise you may encounter errors in MKLC.
+After uninstalling the layout, find the source file in the `src` directory of this repository and open it with MKLC to make any changes.
 
 # Limitations
 
